@@ -1,0 +1,24 @@
+<!doctype html>
+	<html>
+	<head>
+		<title> About Me 
+		</title>
+
+		<body>
+		<h3><font color="red"> About Me </font></h3>
+		<br>
+		<i>Draw Yourself</i>
+		<br>
+		<img="">
+		<b> Name: Mario Tutuncu-Macias </b>
+		<br>
+		<b> Age: 12 </b>
+		<br>
+		<b> Favorite App / Website </b>
+		<br>
+		<p> 1) Google Chrome's home page</p>
+		<br>
+		<p> 2) Agar.io </p>
+		</body>
+	</head>
+	</html>
